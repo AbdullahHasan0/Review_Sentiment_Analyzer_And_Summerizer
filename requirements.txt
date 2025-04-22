@@ -1,0 +1,11 @@
+transformers
+datasets
+accelerate
+scikit-learn
+pandas
+chardet
+gradio
+langdetect
+torch
+evaluate
+numpy
