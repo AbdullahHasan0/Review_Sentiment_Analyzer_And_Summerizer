@@ -39,7 +39,7 @@ Hugging Face Model: **Abdullah104/amazon_sentiment_analysis**
 
 1. Clone this repository  
 2. Install all dependencies using the command:
-3. run the command `pip install -r requirements.txt` to download all the requirements
+3. Run the command `pip install -r requirements.txt` to download all the requirements
 4. Run the `inference.ipynb` notebook to generate sentiment predictions and summaries for your input reviews.
 
 ---
